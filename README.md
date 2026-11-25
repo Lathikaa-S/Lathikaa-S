@@ -1,14 +1,16 @@
-<h1 align="center">Hi, I'm Lathika</h1>
-<h3 align="center">Turning curiosity into code, with a little AI </h3>
+<h1 align="left">Hi, I'm Lathika</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lathikaa-s" alt="lathikaa-s" /></a> </p>
+<p>Turning curiosity into code, with a little AI.</p>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif">
 
- currently working on **Small AI-powered web experiments**
+Currently building **small AI-powered web experiments.**
+
+Curiously exploring **Generative AI, prompt engineering, and AI integration.**
+
+Inside my head: *37 tabs open, and one is playing music.*
+
  
- curiously learning **Generative AI, prompt engineering, and AI integration**
- 
- inside my head **My brain has 37 tabs open, and one is playing music...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +23,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/Lathika"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/Lathika" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lathikaa-s&show_icons=true&locale=en" alt="lathikaa-s" /></p>
+
