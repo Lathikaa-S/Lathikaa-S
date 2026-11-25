@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lathikaa-s" alt="lathikaa-s" /></a> </p>
 
--  I’m currently working on **Small AI-powered web experiments**
+- currently working on **Small AI-powered web experiments**
 
--  I’m currently learning **Generative AI, prompt engineering, and AI integration**
+- curiously exploring Generative AI, prompt engineering, and AI integration
 
--  How to reach me **lathikanayak223@gmail.com**
+-  
 
--  Fun fact **My brain has 37 tabs open, and one is playing music.**
+-  Fun fact **My brain has 37 tabs open, and one is playing music....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,9 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lathikaa-s&show_icons=true&locale=en" alt="lathikaa-s" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lathikaa-s&" alt="lathikaa-s" /></p>
 
-<!--
 **Lathikaa-S/Lathikaa-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
