@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Lathika</h1>
-<h3 align="center">Turning curiosity into code, with a little AI ✨</h3>
+<h1 align="center">Hi, I'm Lathika</h1>
+<h3 align="center">Turning curiosity into code, with a little AI </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lathikaa-s" alt="lathikaa-s" /></a> </p>
 
-- 🔭 I’m currently working on **Small AI-powered web experiments**
+-  I’m currently working on **Small AI-powered web experiments**
 
-- 🌱 I’m currently learning **Generative AI, prompt engineering, and AI integration**
+-  I’m currently learning **Generative AI, prompt engineering, and AI integration**
 
-- 📫 How to reach me **lathikanayak223@gmail.com**
+-  How to reach me **lathikanayak223@gmail.com**
 
-- ⚡ Fun fact **My brain has 37 tabs open, and one is playing music.**
+-  Fun fact **My brain has 37 tabs open, and one is playing music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
